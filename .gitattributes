@@ -1,0 +1,2 @@
+donnees.csv filter=lfs diff=lfs merge=lfs -text
+Livrable_3_Traitements_donnees/csv/kestrel34.csv filter=lfs diff=lfs merge=lfs -text
